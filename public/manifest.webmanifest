@@ -1,0 +1,27 @@
+{
+  "name": "ProveYourself - Zero-Knowledge Biometric Authentication",
+  "short_name": "ProveYourself",
+  "description": "Privacy-first biometric authentication using zero-knowledge proofs",
+  "theme_color": "#111111",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/placeholder.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/placeholder.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["security", "authentication", "privacy"],
+  "screenshots": []
+}
